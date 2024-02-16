@@ -31,6 +31,8 @@ git clone https://github.com/your_username_/Project-Name.git
 python3 definitivo.py
 ```
 
+[![Watch the video to see how use it](screenshot.png)](Multimedia1.mp4)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details

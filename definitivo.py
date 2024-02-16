@@ -9,7 +9,7 @@ import time
 
 HOST = "https://boe.es"
 FIXED_PART_OF_URL_API = f"{HOST}/diario_boe/xml.php?id=BORME-S-"
-PROVINCIA = "A CORUÑA"
+PROVINCIA = "OURENSE"
 # Constante, que me permite sumar un día a una fecha
 DIFF1DIA = timedelta(days=1)
 
