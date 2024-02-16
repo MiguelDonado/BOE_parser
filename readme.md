@@ -22,7 +22,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repo
 ```bash
-git clone https://github.com/your_username_/Project-Name.git
+git clone https://github.com/MiguelDonado/BOE_parser.git
 ```
 
 2. Change the `PROVINCIA` constant in `definitivo.py` to one of the following: "A CORUÑA", "PONTEVEDRA", "LUGO", "OURENSE".
